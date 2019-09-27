@@ -1,26 +1,11 @@
-Skip to content
-Search or jump to…
+# Micro and Array Update
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ShilpaUddanna 
-1
-00ShwethaKhadri/Problems
- Code Issues 0 Pull requests 0 Projects 0 Wiki Security Insights
-Problems/README.md
-@ShwethaKhadri ShwethaKhadri Update README.md
-50a66d8 1 minute ago
-146 lines (116 sloc)  4.5 KB
-  
-Micro and Array Update
-Micro purchased an array A having N integer values. After playing it for a while, he got bored of it and decided to update value of its element. In one second he can increase value of each array element by 1. He wants each array element's value to become greater than or equal to K. Please help Micro to find out the minimum amount of time it will take, for him to do so.
+ Micro purchased an array A having N integer values. After playing it for a while, he got bored of it and decided to update value of its element. In one second he can increase value of each array element by 1. He wants each array element's value to become greater than or equal to K. Please help Micro to find out the minimum amount of time it will take, for him to do so.
 
-Input
+<h1>Input</h1>
 First line consists of a single integer, T, denoting the number of test cases. First line of each test case consists of two space separated integers denoting N and K. Second line of each test case consists of N space separated integers denoting the array A.
-Output:
+
+<h1>Output:</h1>
 For each test case, print the minimum time in which all array elements will become greater than or equal to K. Print a new line after each test case.
 
 Constraints
