@@ -58,53 +58,45 @@ Sample Input
 Sample Output
 11
 
-Pink Floyd and Happiness
+ # Pink Floyd and Happiness
 Pink is sad because of some reasons, he wants to cheer up by listening to some songs from his favorite band, Pink Floyd. There are N records and Pink will be happy if he listens to them in the ascending order, i.e., first the song No. 1, then No.2 and so on (He has to listen to all the N songs to become Happy). Pink is delivered his records in some given order, he can either add the record to the Playlist in the delivered order or put some on another table. After being put on the table only the topmost record can be added to the playlist at any time. Print whether Pink will be sad or happy after the delivery of the records.
 
-Input Format
+<h3>Input Format</h3>
 N - Number of records followed by N numbers- order of records.
 
-Output Format
+<h3>Output Format</h3>
 Print "Happy" if the playlist has songs from 1 to N in order else "Sad".
 
-Constraints
-1<=N<=10^5 The array consists of 1-N distinct numbers.
+<h3>Constraints</h3>
 
-Sample Input
+1<=N<=10^5
+The array consists of 1-N distinct numbers.
+
+<h3>Sample Input</h3>
 5 1 2 3 4 5
 
-Sample Output
+<h3>Sample Output</h3>
 Happy
 
-Monk watching fight
+# Monk watching fight
 Once Monk was watching a fight between an array and a tree, of being better. Tree got frustrated and converted that array into a Binary Search Tree by inserting the elements as nodes in BST, processing elements in the given order in the array. Now Monk wants to know the height of the created Binary Search Tree. Help Monk for the same. Note:
 
 In Binary Search Tree, the left sub-tree contains only nodes with values less than or equal to the parent node; the right sub-tree contains only nodes with values greater than the parent node.
 Binary Search Tree with one node, has height equal to 1.
-Input Format
+
+<h3>Input Format</h3>
 The first line will consist of 1 integer N, denoting the number of elements in the array. In next line, there will be N space separated integers, A[i], where 1 ≤ I ≤ N, denoting the elements of array.
 
-Output Format
+<h3>Output Format</h3>
 Print the height of the created Binary Search Tree.
 
-Constraints
+<h3>Constraints</h3>
 1<=N<=10^3 1<=A[i]<=10^6
 
-Sample Input
+<h3>Sample Input</h3>
 4 2 1 3 4
 
-Sample Output
+<h3>Sample Output</h3>
 3
 
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
