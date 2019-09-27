@@ -12,10 +12,15 @@ For each test case, print the minimum time in which all array elements will beco
 1<=T<=5 1<=N<=10^5 1<=A[i],K<=10^6
 
 <h3>Sample Input</h3>
-2 3 4 1 2 5 3 2 2 5 5
+ 2 
+ 3 4
+ 1 2 5 
+ 3 2
+ 2 5 5
 
 <h3>Sample Output</h3>
-3 0
+3
+0
 
 Hamiltonian and Lagrangian
 Students have become secret admirers of SEGP. They find the course exciting and the professors amusing. After a superb Mid Semester examination, it’s now time for the results. The TAs have released the marks of students in the form of an array, where arr[i] represents the marks of the ith student. Since you are a curious kid, you want to find all the marks that are not smaller than those on its right side in the array.
