@@ -9,7 +9,11 @@ First line consists of a single integer, T, denoting the number of test cases. F
 For each test case, print the minimum time in which all array elements will become greater than or equal to K. Print a new line after each test case.
 
 <h2>Constraints</h2>
-1<=T<=5 1<=N<=10^5 1<=A[i],K<=10^6
+1<=T<=5
+
+1<=N<=10^5 
+
+1<=A[i],K<=10^6
 
 <h3>Sample Input</h3>
  2 
@@ -32,7 +36,9 @@ The first line of input will contain a single integer n denoting the number of s
 Output all the integers separated in the array from left to right that are not smaller than those on its right side.
 
 <h3>Constraints</h3>
-1 <= n <= 1000000 0 <= arr[i] <= 10000
+1 <= n <= 1000000 
+
+0 <= arr[i] <= 10000
 
 <h3>Sample Input</h3>
 6 16 17 4 3 5 2
@@ -50,7 +56,9 @@ The first line contains N the no. of coders The next line contains N elements wh
 Print a single line containing the minimum sum.
 
 <h3>Constraints</h3>
-1<= N <= 1000000 1<=S[ i ]<=1000
+1<= N <= 1000000
+
+1<=S[ i ]<=1000
 
 <h3>Sample Input</h3>
 6 1 7 2 2 4 4
@@ -91,7 +99,9 @@ The first line will consist of 1 integer N, denoting the number of elements in t
 Print the height of the created Binary Search Tree.
 
 <h3>Constraints</h3>
-1<=N<=10^3 1<=A[i]<=10^6
+1<=N<=10^3 
+
+1<=A[i]<=10^6
 
 <h3>Sample Input</h3>
 4 2 1 3 4
