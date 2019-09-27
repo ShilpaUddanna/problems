@@ -68,5 +68,17 @@ Output all the integers separated in the array from left to right that are not s
 those on its right side.
 
 # Constraints
+
  1 <= n <= 1000000
+ 
  0 <= arr[i] <= 10000
+ 
+ # Sample Input 
+ 
+ 6
+ 
+ 16 17 4 3 5 2
+ 
+ # Sample Output
+ 
+ 17 5 2
